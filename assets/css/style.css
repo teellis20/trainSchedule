@@ -1,0 +1,21 @@
+#header {
+    width: 100%;
+}
+#image-left {
+    float: left;
+    width: 33%;
+}
+
+#card-head {
+    float: right;
+    background: slategray;
+    width: 67%;
+    height: 250px;
+}
+
+h1 {
+    text-align: end;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 75px;
+}
+
